@@ -1,0 +1,42 @@
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Secrets and local configuration
+.env
+.streamlit/secrets.toml
+
+# Local IDE / operating system files
+.vscode/
+.idea/
+.sf/
+.DS_Store
+Thumbs.db
+
+# Local SQLite database and journal files
+data/*.db
+data/*.sqlite
+data/*.sqlite3
+data/*.db-shm
+data/*.db-wal
+
+# Generated logs and reports (keep sample fixtures)
+data/logs/*
+!data/logs/.gitkeep
+!data/logs/sample_auth.log
+
+data/reports/*
+!data/reports/.gitkeep
+
+data/monitored/*
+!data/monitored/.gitkeep
+!data/monitored/security_test.txt
+
+# Temporary exports
+*.zip
+*.tmp

@@ -1,0 +1,12 @@
+
+Nov 12 09:10:12 server sshd: Accepted password for admin from 192.168.1.10 port 51230 ssh2
+Nov 12 09:12:15 server sshd: Failed password for root from 203.0.113.45 port 51231 ssh2
+Nov 12 09:12:18 server sshd: Failed password for root from 203.0.113.45 port 51232 ssh2
+Nov 12 09:12:21 server sshd: Failed password for root from 203.0.113.45 port 51233 ssh2
+Nov 12 09:12:24 server sshd: Failed password for root from 203.0.113.45 port 51234 ssh2
+Nov 12 09:12:27 server sshd: Failed password for root from 203.0.113.45 port 51235 ssh2
+Nov 12 09:15:10 server sudo: admin : COMMAND=/usr/bin/systemctl restart nginx
+Nov 12 09:17:22 server sshd: Accepted publickey for user from 192.168.1.20 port 51240 ssh2
+Nov 12 09:20:10 server kernel: application segmentation fault detected
+Nov 12 09:25:10 server sshd: Authentication failure for test from 198.51.100.20
+Nov 12 09:25:15 server sshd: Permission denied for user test
