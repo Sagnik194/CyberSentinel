@@ -25,6 +25,17 @@ CyberSentinel is an educational Python application that brings together account 
 - Nmap
 - Pytest
 
+## Application Screenshots
+
+### Security Dashboard
+![CyberSentinel Security Dashboard](docs/screenshots/dashboard.png)
+
+### Network Security Assessment
+![CyberSentinel Network Security Assessment](docs/screenshots/network-assessment.png)
+
+### Incident Response Management
+![CyberSentinel Incident Response Management](docs/screenshots/incident-response.png)
+
 ## Project Structure
 
 ```text
